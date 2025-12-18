@@ -1,7 +1,7 @@
 # Hi there, I'm Mohamed Ali 👋
 <p align="center">
 <a href="https://www.linkedin.com/in/mohamedali8420/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>&nbsp;
-<a href="moali842000@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="30" width="30" /></a>&nbsp;
+<a href="mohamed.ali.abdalla84@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="30" width="30" /></a>&nbsp;
 </p>
 
 ---
