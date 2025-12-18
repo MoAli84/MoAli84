@@ -23,14 +23,14 @@
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="65" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="spark" width="55" height="55"/>
-      <img src="https://svg-viewer.fileformat.info/favicon.svg" alt="airflow" width="55" height="55"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/AirflowLogo.svg/500px-AirflowLogo.svg.png" alt="airflow" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> 
       <img src="https://flume.apache.org/_static/feather-small.png" alt="flume" width="55" height="55"/>
       <img src="https://flink.apache.org/img/logo/png/500/flink_squirrel_500.png" alt="flink" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="kafka" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg" alt="hadoop" width="55" height="55"/> 
       
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> 
 </p>
 
 ---
