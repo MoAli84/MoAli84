@@ -22,7 +22,7 @@
       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="65" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="55" height="55"/>
+      <img src="[https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg](https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg)" alt="spark" width="55" height="55"/>
       <img src="https://svg-viewer.fileformat.info/favicon.svg" alt="airflow" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> 
