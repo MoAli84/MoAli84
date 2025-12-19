@@ -29,8 +29,12 @@
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> 
       <img src="https://flume.apache.org/_static/feather-small.png" alt="flume" width="55" height="55"/>
       <img src="https://flink.apache.org/img/logo/png/500/flink_squirrel_500.png" alt="flink" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="kafka" width="55" height="55"/> 
+      <img src="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/kafka-white-vertical-logo" alt="kafka" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg" alt="hadoop" width="55" height="55"/> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Apache_Sqoop_logo.svg" alt="sqoop" width="55" height="55"/> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/ClickHouse_Logo_square.svg" alt="clickhouse" width="55" height="55"/> 
+
+
       
 </p>
 
