@@ -7,11 +7,11 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🚀 Aspiring Data Engineer focused on building scalable batch & streaming data pipelines
-- ⚙️ Hands-on experience with Apache Spark, Kafka, and Flink for large-scale data processing
-- 🗄️ Working with HDFS, Hive, HBase, and ClickHouse for data storage and analytics
-- 🔄 Familiar with data ingestion & integration using Sqoop and Flume
-- 🧭 Interested in workflow orchestration and automation using Apache Airflow
+- 🚀 Aspiring Data Engineer focused on building **scalable batch & streaming data pipelines**
+- ⚙️ Hands-on experience with **Apache Spark, Kafka, and Flink** for large-scale data processing
+- 🗄️ Working with **HDFS, Hive, HBase, and ClickHouse** for data storage and analytics
+- 🔄 Familiar with data ingestion & integration using **Sqoop and Flume**
+- 🧭 Interested in workflow orchestration and automation using **Apache Airflow**
 - 🎯 Goal: Design reliable, high-performance data platforms and grow into a professional Big Data Engineer
 
 ---
