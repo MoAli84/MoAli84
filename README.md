@@ -7,11 +7,12 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🚀 Aspiring **Data Engineer** with strong focus on **Python, SQL, and ETL pipelines**  
-- 📊 Interested in **data modeling, workflow orchestration (Airflow), and big data processing**  
-- 🛠 Currently sharpening skills in **pandas, data cleaning, and transformation**  
-- 📚 Learning advanced topics in **data engineering pipelines, batch & streaming**  
-- 🎯 Goal: Build **efficient, scalable data pipelines** and contribute to open-source projects  
+- 🚀 Aspiring Data Engineer focused on building scalable batch & streaming data pipelines
+- ⚙️ Hands-on experience with Apache Spark, Kafka, and Flink for large-scale data processing
+- 🗄️ Working with HDFS, Hive, HBase, and ClickHouse for data storage and analytics
+- 🔄 Familiar with data ingestion & integration using Sqoop and Flume
+- 🧭 Interested in workflow orchestration and automation using Apache Airflow
+- 🎯 Goal: Design reliable, high-performance data platforms and grow into a professional Big Data Engineer
 
 ---
 
