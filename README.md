@@ -48,11 +48,11 @@
 ---
 
 ## ✍️ Latest Learning & Projects
-📌 Building ETL pipelines using Python, SQL, and Apache Spark
-📌 Designing and scheduling Apache Airflow DAGs for pipeline orchestration
-📌 Practicing data wrangling, feature engineering, and transformations with pandas
-📌 Exploring batch vs streaming pipelines using Kafka and Flink
-📌 Working with HDFS, Hive, and ClickHouse for analytical workloads
+- 📌 Building ETL pipelines using Python, SQL, and Apache Spark
+- 📌 Designing and scheduling Apache Airflow DAGs for pipeline orchestration
+- 📌 Practicing data wrangling, feature engineering, and transformations with pandas
+- 📌 Exploring batch vs streaming pipelines using Kafka and Flink
+- 📌 Working with HDFS, Hive, and ClickHouse for analytical workloads
 
 ---
 
